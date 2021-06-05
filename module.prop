@@ -1,0 +1,7 @@
+id=laos-aufui
+name=LineageOS UI audio files
+version=1.0.0
+versionCode=100
+author=raven428
+description=Systemless-ly replace UI sounds by LineageOS
+updateJson=https://raw.githubusercontent.com/raven428/magisk-laosaufui/master/update.json

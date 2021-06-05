@@ -1,5 +1,5 @@
-# CM boot animation
-Systemless add LineageOS media files to current ROM
+# LineageOS UI audio files
+Systemless-ly replace UI sounds to LineageOS
 
 ## Changelog
 
@@ -8,4 +8,3 @@ Systemless add LineageOS media files to current ROM
 
 ## Credits
 - [raven428](https://github.com/raven428)
-- [LineageOS Development](https://github.com/LineageOS)
